@@ -6,13 +6,13 @@
     "secret": "",
     "maintenance": false,
 
-    "sitekey": "",
-    "secretkey": "",
+    "sitekey": "6LcJcjwUAAAAAO_Xqjrtj9wWufUpYRnK6BW8lnfn",
+    "secretkey": "6LcJcjwUAAAAALOcDJqAEYKTDhwELCkzUkNDQ0J5",
     "note": "You Can Get These From https://www.google.com/recaptcha/admin"
   },
   "pterodactyl": {
-    "domain": "",
-    "key": ""
+    "domain": "idpanel.dhaffmanzz.my.id",
+    "key": "ptla_FtiibmSRPKMoHz2WVkAR5MK1fqbQlbFjHqQPBnLTN3N"
   },
   "google_ads": {
     "enabled": false,
